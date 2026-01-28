@@ -85,7 +85,7 @@ Frontend hosted on S3 + CloudFront, communicating with backend APIs.
 ---
 ## 📊 GitHub Stats
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh0311&show_icons=true&hide_title=true)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh0311&show_icons=true&hide_title=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh0311&layout=compact)
 
