@@ -1,80 +1,67 @@
 # Hi, I'm Adarsh 👋
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer--Associate-gold)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-gold)
 ![Java](https://img.shields.io/badge/Java-SpringBoot-green)
-![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen)
 ![Angular](https://img.shields.io/badge/Angular-Frontend-red)
-![Vue](https://img.shields.io/badge/Vue.js-Frontend-42b883)
 ![Node](https://img.shields.io/badge/Node.js-Backend-339933)
 ![DotNet](https://img.shields.io/badge/.NET-C%23-512BD4)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-Database-blue)
 
-AWS Certified Developer – Associate | Full-Stack, Backend & Cloud Engineer  
-Java • Spring Boot • .NET • Node.js • AWS • Angular • PostgreSQL
+Full-Stack, Backend & Cloud Engineer | AWS Certified Developer
 
-🚀 I build cloud-native applications and deploy real-world projects on AWS using EC2, S3, RDS, CloudFront, Route 53, IAM, SQS, and CI/CD pipelines.
+🚀 I build reliable, scalable backend systems and cloud-native applications that power real-world platforms and production environments.
 
-🌐 Portfolio: https://adarshkumar.dev  
-📫 LinkedIn: https://www.linkedin.com/in/adarsh-kumar03
 
 ---
 
-## ☁️ Cloud & Technical Skills
+## ☁️ Core Tech Stack
 
-- **AWS:** EC2, S3, RDS, CloudFront, Route 53, ACM, IAM, SQS, CodePipeline, CodeBuild  
-- **Backend:** Java (Spring Boot), Node.js, .NET, JWT Authentication  
-- **Frontend:** Angular, Vue  
-- **Databases:** PostgreSQL  
-- **DevOps:** GitHub Actions, AWS CI/CD, Linux deployment
+**Backend:** Java, Spring Boot, .NET, Node.js  
+**Cloud:** AWS (Lambda, S3, API Gateway, EC2, RDS, CloudFront, IAM, SQS)  
+**Databases:** PostgreSQL, DynamoDB  
+**Frontend:** Angular, Vue, React  
+**DevOps:** GitHub Actions, CodePipeline, Linux, Docker
 
 ---
 
-## 🛠 Featured Projects
+## 🏗 Featured Projects
 
-### 🌐 Cloud Portfolio Website
-Live: https://adarshkumar.dev  
-Repo: https://github.com/Adarsh0311/Portfolio
+### 🎵 Musify – Serverless Music Streaming Platform
+Spring Boot + React + AWS (Lambda, S3, DynamoDB, API Gateway)
 
-**Architecture**
-- S3 static website hosting
-- CloudFront CDN with ACM SSL
-- Route 53 custom domain
-- AWS CodePipeline + CodeBuild for CI/CD
-- Automatic CloudFront cache invalidation on deploy
+- Fully serverless backend architecture
+- Secure MP3 streaming using pre-signed S3 URLs
+- Metadata stored in DynamoDB
+- Stateless Lambda-based compute layer
 
-**Highlights**
-- Infrastructure-driven deployment
-- Fully automated frontend pipeline
+👉 Repo: https://github.com/Adarsh0311/musify
+
+---
+
+### 🌐 Cloud Portfolio (Production AWS Deployment)
+S3 + CloudFront + Route 53 + ACM + CodePipeline
+
+- Static hosting with global CDN
+- Automated CI/CD pipeline
 - Secure HTTPS with ACM
-- Real-world DNS + CDN setup
+- Real-world DNS configuration
+
+👉 Live: https://adarshkumar.dev  
+👉 Repo: https://github.com/Adarsh0311/Portfolio
 
 ---
 
-### 🏫 Campus Inspection System (Northwest Missouri State University)
+### 🏫 Campus Inspection System (Production Deployment)
 
-Node.js backend deployed on EC2 with PostgreSQL on RDS.  
-Frontend hosted on S3 + CloudFront, communicating with backend APIs.
+Node.js backend on EC2 + PostgreSQL on RDS  
+Frontend hosted on S3 + CloudFront
 
-**Backend Architecture**
-- Node.js REST APIs on EC2
-- PostgreSQL on Amazon RDS
-- GitHub Actions CI/CD for automated backend deployment
-- JWT-based authentication
-
-**Frontend Architecture**
-- S3 static hosting
-- CloudFront distribution
-- API calls to EC2 backend
-
-**Highlights**
-- Full-stack production deployment
+- 99.9% availability with CI/CD
+- JWT authentication
 - Separate frontend & backend pipelines
-- GitHub Actions for backend CI/CD
-- AWS RDS integration
-- Real university project used in production
+- Used in a real university environment
 
 👉 Repo: https://github.com/Adarsh0311/campus-inspection-system
-
 
 ---
 
@@ -83,10 +70,10 @@ Frontend hosted on S3 + CloudFront, communicating with backend APIs.
 ✅ AWS Certified Developer – Associate (Score: 885)
 
 ---
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh0311&show_icons=true&hide_title=false)
+LinkedIn: https://linkedin.com/in/adarsh-kumar03  
+Portfolio: https://adarshkumar.dev
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh0311&layout=compact)
 
 
